@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/elriya/Coding-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/elriya/Coding-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/elriya/Coding-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/elriya/Coding-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -14,10 +15,15 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/elriya/Coding-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/elriya/Coding-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/elriya/Coding-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/elriya/Coding-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/elriya/Coding-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
