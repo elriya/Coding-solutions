@@ -7,12 +7,14 @@
 | [0001-two-sum](https://github.com/elriya/Coding-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/elriya/Coding-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/elriya/Coding-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/elriya/Coding-solutions/tree/master/0036-valid-sudoku) |
 | [1975-maximum-matrix-sum](https://github.com/elriya/Coding-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/elriya/Coding-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/elriya/Coding-solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/elriya/Coding-solutions/tree/master/0036-valid-sudoku) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,5 +40,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/elriya/Coding-solutions/tree/master/0036-valid-sudoku) |
 | [1975-maximum-matrix-sum](https://github.com/elriya/Coding-solutions/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
