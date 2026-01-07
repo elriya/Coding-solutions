@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/elriya/Coding-solutions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/elriya/Coding-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/elriya/Coding-solutions/tree/master/0069-sqrtx) |
 ## Greedy
 |  |
@@ -44,4 +45,8 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/elriya/Coding-solutions/tree/master/0036-valid-sudoku) |
 | [1975-maximum-matrix-sum](https://github.com/elriya/Coding-solutions/tree/master/1975-maximum-matrix-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/elriya/Coding-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
