@@ -49,4 +49,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/elriya/Coding-solutions/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/elriya/Coding-solutions/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
