@@ -15,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/elriya/Coding-solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/elriya/Coding-solutions/tree/master/0036-valid-sudoku) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/elriya/Coding-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +54,20 @@
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/elriya/Coding-solutions/tree/master/0065-valid-number) |
+## Tree
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/elriya/Coding-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/elriya/Coding-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/elriya/Coding-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/elriya/Coding-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
