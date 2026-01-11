@@ -38,6 +38,7 @@
 | [0007-reverse-integer](https://github.com/elriya/Coding-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/elriya/Coding-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/elriya/Coding-solutions/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/elriya/Coding-solutions/tree/master/0089-gray-code) |
 ## Greedy
 |  |
 | ------- |
@@ -86,4 +87,12 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/elriya/Coding-solutions/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/elriya/Coding-solutions/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
