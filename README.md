@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/elriya/Coding-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/elriya/Coding-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/elriya/Coding-solutions/tree/master/0036-valid-sudoku) |
+| [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 | [1975-maximum-matrix-sum](https://github.com/elriya/Coding-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/elriya/Coding-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/elriya/Coding-solutions/tree/master/0036-valid-sudoku) |
+| [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 | [1975-maximum-matrix-sum](https://github.com/elriya/Coding-solutions/tree/master/1975-maximum-matrix-sum) |
 ## Recursion
 |  |
@@ -74,5 +76,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/elriya/Coding-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
