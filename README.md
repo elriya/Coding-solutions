@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/elriya/Coding-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/elriya/Coding-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/elriya/Coding-solutions/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/elriya/Coding-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/elriya/Coding-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1975-maximum-matrix-sum](https://github.com/elriya/Coding-solutions/tree/master/1975-maximum-matrix-sum) |
@@ -83,16 +84,19 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/elriya/Coding-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 | [0279-perfect-squares](https://github.com/elriya/Coding-solutions/tree/master/0279-perfect-squares) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/elriya/Coding-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/elriya/Coding-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/elriya/Coding-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 ## Backtracking
 |  |
@@ -106,4 +110,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/elriya/Coding-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/elriya/Coding-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
