@@ -15,6 +15,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/elriya/Coding-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1975-maximum-matrix-sum](https://github.com/elriya/Coding-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/elriya/Coding-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/elriya/Coding-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3453-separate-squares-i](https://github.com/elriya/Coding-solutions/tree/master/3453-separate-squares-i) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@
 | [0089-gray-code](https://github.com/elriya/Coding-solutions/tree/master/0089-gray-code) |
 | [0279-perfect-squares](https://github.com/elriya/Coding-solutions/tree/master/0279-perfect-squares) |
 | [1266-minimum-time-visiting-all-points](https://github.com/elriya/Coding-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/elriya/Coding-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Greedy
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/elriya/Coding-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/elriya/Coding-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Two Pointers
 |  |
 | ------- |
