@@ -13,6 +13,7 @@
 | [0120-triangle](https://github.com/elriya/Coding-solutions/tree/master/0120-triangle) |
 | [0605-can-place-flowers](https://github.com/elriya/Coding-solutions/tree/master/0605-can-place-flowers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/elriya/Coding-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1895-largest-magic-square](https://github.com/elriya/Coding-solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/elriya/Coding-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/elriya/Coding-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/elriya/Coding-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/elriya/Coding-solutions/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
+| [1895-largest-magic-square](https://github.com/elriya/Coding-solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/elriya/Coding-solutions/tree/master/1975-maximum-matrix-sum) |
 ## Recursion
 |  |
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/elriya/Coding-solutions/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-largest-magic-square](https://github.com/elriya/Coding-solutions/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
