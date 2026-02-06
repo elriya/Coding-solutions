@@ -31,6 +31,7 @@
 | [3379-transformed-array](https://github.com/elriya/Coding-solutions/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/elriya/Coding-solutions/tree/master/3453-separate-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/elriya/Coding-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/elriya/Coding-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/elriya/Coding-solutions/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/elriya/Coding-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/elriya/Coding-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/elriya/Coding-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/elriya/Coding-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/elriya/Coding-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3634-minimum-removals-to-balance-array](https://github.com/elriya/Coding-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Graph Theory
 |  |
 | ------- |
