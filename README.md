@@ -111,11 +111,13 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/elriya/Coding-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/elriya/Coding-solutions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/elriya/Coding-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/elriya/Coding-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/elriya/Coding-solutions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/elriya/Coding-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Breadth-First Search
 |  |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/elriya/Coding-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/elriya/Coding-solutions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/elriya/Coding-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Dynamic Programming
 |  |
