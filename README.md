@@ -11,6 +11,7 @@
 | [0037-sudoku-solver](https://github.com/elriya/Coding-solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/elriya/Coding-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/elriya/Coding-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/elriya/Coding-solutions/tree/master/0120-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/elriya/Coding-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/elriya/Coding-solutions/tree/master/0605-can-place-flowers) |
@@ -143,6 +144,7 @@
 | [0042-trapping-rain-water](https://github.com/elriya/Coding-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/elriya/Coding-solutions/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/elriya/Coding-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/elriya/Coding-solutions/tree/master/0120-triangle) |
 | [0279-perfect-squares](https://github.com/elriya/Coding-solutions/tree/master/0279-perfect-squares) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/elriya/Coding-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
