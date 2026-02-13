@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/elriya/Coding-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/elriya/Coding-solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/elriya/Coding-solutions/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/elriya/Coding-solutions/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/elriya/Coding-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/elriya/Coding-solutions/tree/master/0120-triangle) |
@@ -168,10 +169,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/elriya/Coding-solutions/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/elriya/Coding-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/elriya/Coding-solutions/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/elriya/Coding-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/elriya/Coding-solutions/tree/master/0089-gray-code) |
 ## Geometry
 |  |
