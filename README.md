@@ -80,6 +80,7 @@
 | [0002-add-two-numbers](https://github.com/elriya/Coding-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/elriya/Coding-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/elriya/Coding-solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/elriya/Coding-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/elriya/Coding-solutions/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/elriya/Coding-solutions/tree/master/0089-gray-code) |
 | [0279-perfect-squares](https://github.com/elriya/Coding-solutions/tree/master/0279-perfect-squares) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/elriya/Coding-solutions/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/elriya/Coding-solutions/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/elriya/Coding-solutions/tree/master/0097-interleaving-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/elriya/Coding-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/elriya/Coding-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -175,6 +177,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/elriya/Coding-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/elriya/Coding-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/elriya/Coding-solutions/tree/master/0089-gray-code) |
 ## Geometry
@@ -207,6 +210,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/elriya/Coding-solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/elriya/Coding-solutions/tree/master/0682-baseball-game) |
 | [3379-transformed-array](https://github.com/elriya/Coding-solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/elriya/Coding-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
