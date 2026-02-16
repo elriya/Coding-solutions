@@ -113,6 +113,7 @@
 | [0065-valid-number](https://github.com/elriya/Coding-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/elriya/Coding-solutions/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/elriya/Coding-solutions/tree/master/0097-interleaving-string) |
+| [0131-palindrome-partitioning](https://github.com/elriya/Coding-solutions/tree/master/0131-palindrome-partitioning) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/elriya/Coding-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/elriya/Coding-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/elriya/Coding-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -152,6 +153,7 @@
 | [0097-interleaving-string](https://github.com/elriya/Coding-solutions/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/elriya/Coding-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/elriya/Coding-solutions/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/elriya/Coding-solutions/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/elriya/Coding-solutions/tree/master/0279-perfect-squares) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/elriya/Coding-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/elriya/Coding-solutions/tree/master/0799-champagne-tower) |
@@ -175,6 +177,7 @@
 | [0037-sudoku-solver](https://github.com/elriya/Coding-solutions/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/elriya/Coding-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/elriya/Coding-solutions/tree/master/0089-gray-code) |
+| [0131-palindrome-partitioning](https://github.com/elriya/Coding-solutions/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
