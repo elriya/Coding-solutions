@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/elriya/Coding-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/elriya/Coding-solutions/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/elriya/Coding-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
@@ -180,6 +181,7 @@
 | [0067-add-binary](https://github.com/elriya/Coding-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/elriya/Coding-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/elriya/Coding-solutions/tree/master/0089-gray-code) |
+| [0190-reverse-bits](https://github.com/elriya/Coding-solutions/tree/master/0190-reverse-bits) |
 ## Geometry
 |  |
 | ------- |
