@@ -14,6 +14,7 @@
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/elriya/Coding-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/elriya/Coding-solutions/tree/master/0120-triangle) |
+| [0198-house-robber](https://github.com/elriya/Coding-solutions/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/elriya/Coding-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/elriya/Coding-solutions/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/elriya/Coding-solutions/tree/master/0682-baseball-game) |
@@ -154,6 +155,7 @@
 | [0118-pascals-triangle](https://github.com/elriya/Coding-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/elriya/Coding-solutions/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/elriya/Coding-solutions/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/elriya/Coding-solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/elriya/Coding-solutions/tree/master/0279-perfect-squares) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/elriya/Coding-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/elriya/Coding-solutions/tree/master/0799-champagne-tower) |
