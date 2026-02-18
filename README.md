@@ -189,6 +189,7 @@
 | [0089-gray-code](https://github.com/elriya/Coding-solutions/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/elriya/Coding-solutions/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/elriya/Coding-solutions/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/elriya/Coding-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Geometry
 |  |
 | ------- |
