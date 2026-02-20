@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/elriya/Coding-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0761-special-binary-string](https://github.com/elriya/Coding-solutions/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/elriya/Coding-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/elriya/Coding-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/elriya/Coding-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/elriya/Coding-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/elriya/Coding-solutions/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/elriya/Coding-solutions/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/elriya/Coding-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
@@ -117,6 +119,7 @@
 | [0131-palindrome-partitioning](https://github.com/elriya/Coding-solutions/tree/master/0131-palindrome-partitioning) |
 | [0696-count-binary-substrings](https://github.com/elriya/Coding-solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/elriya/Coding-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/elriya/Coding-solutions/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/elriya/Coding-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/elriya/Coding-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/elriya/Coding-solutions/tree/master/3713-longest-balanced-substring-i) |
