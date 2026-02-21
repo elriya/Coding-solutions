@@ -88,6 +88,7 @@
 | [0069-sqrtx](https://github.com/elriya/Coding-solutions/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/elriya/Coding-solutions/tree/master/0089-gray-code) |
 | [0279-perfect-squares](https://github.com/elriya/Coding-solutions/tree/master/0279-perfect-squares) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/elriya/Coding-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/elriya/Coding-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/elriya/Coding-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Greedy
@@ -194,6 +195,7 @@
 | [0190-reverse-bits](https://github.com/elriya/Coding-solutions/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/elriya/Coding-solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/elriya/Coding-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/elriya/Coding-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Geometry
 |  |
 | ------- |
