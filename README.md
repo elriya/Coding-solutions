@@ -17,6 +17,7 @@
 | [0198-house-robber](https://github.com/elriya/Coding-solutions/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/elriya/Coding-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/elriya/Coding-solutions/tree/master/0605-can-place-flowers) |
+| [0636-exclusive-time-of-functions](https://github.com/elriya/Coding-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/elriya/Coding-solutions/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/elriya/Coding-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/elriya/Coding-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -171,6 +172,7 @@
 | [0042-trapping-rain-water](https://github.com/elriya/Coding-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/elriya/Coding-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0636-exclusive-time-of-functions](https://github.com/elriya/Coding-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/elriya/Coding-solutions/tree/master/0682-baseball-game) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/elriya/Coding-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
