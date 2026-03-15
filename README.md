@@ -101,6 +101,7 @@
 | [0279-perfect-squares](https://github.com/elriya/Coding-solutions/tree/master/0279-perfect-squares) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/elriya/Coding-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/elriya/Coding-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1622-fancy-sequence](https://github.com/elriya/Coding-solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/elriya/Coding-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/elriya/Coding-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/elriya/Coding-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -324,6 +325,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/elriya/Coding-solutions/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/elriya/Coding-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Rolling Hash
 |  |
@@ -342,4 +344,8 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/elriya/Coding-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/elriya/Coding-solutions/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
