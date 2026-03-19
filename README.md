@@ -39,6 +39,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/elriya/Coding-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/elriya/Coding-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/elriya/Coding-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/elriya/Coding-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/elriya/Coding-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/elriya/Coding-solutions/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/elriya/Coding-solutions/tree/master/3453-separate-squares-i) |
@@ -137,6 +138,7 @@
 | [1895-largest-magic-square](https://github.com/elriya/Coding-solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/elriya/Coding-solutions/tree/master/1975-maximum-matrix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/elriya/Coding-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/elriya/Coding-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Recursion
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/elriya/Coding-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/elriya/Coding-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/elriya/Coding-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/elriya/Coding-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3719-longest-balanced-subarray-i](https://github.com/elriya/Coding-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
