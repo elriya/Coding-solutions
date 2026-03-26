@@ -100,6 +100,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/elriya/Coding-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/elriya/Coding-solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/elriya/Coding-solutions/tree/master/0191-number-of-1-bits) |
 | [0761-special-binary-string](https://github.com/elriya/Coding-solutions/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/elriya/Coding-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
@@ -265,6 +266,7 @@
 | [0078-subsets](https://github.com/elriya/Coding-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/elriya/Coding-solutions/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/elriya/Coding-solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/elriya/Coding-solutions/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/elriya/Coding-solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/elriya/Coding-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/elriya/Coding-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
