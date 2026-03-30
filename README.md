@@ -65,6 +65,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/elriya/Coding-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/elriya/Coding-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/elriya/Coding-solutions/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/elriya/Coding-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/elriya/Coding-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/elriya/Coding-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/elriya/Coding-solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -94,6 +95,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/elriya/Coding-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/elriya/Coding-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/elriya/Coding-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/elriya/Coding-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/elriya/Coding-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/elriya/Coding-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/elriya/Coding-solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -187,6 +189,7 @@
 | [1980-find-unique-binary-string](https://github.com/elriya/Coding-solutions/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/elriya/Coding-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/elriya/Coding-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/elriya/Coding-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/elriya/Coding-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/elriya/Coding-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/elriya/Coding-solutions/tree/master/3713-longest-balanced-substring-i) |
