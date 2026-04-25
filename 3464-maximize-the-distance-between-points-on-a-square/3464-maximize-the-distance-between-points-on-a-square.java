@@ -47,18 +47,12 @@ class Solution {
             int currentIdx = i;
             int count = 1;
 
-            // Greedily pick the next k-1 points
             for (int j = 1; j < k; j++) {
                 long target = lastPos + dist;
                 
-                // Find first point >= target
                 int nextIdx = Arrays.binarySearch(extendedPos, target);
                 if (nextIdx < 0) nextIdx = -(nextIdx + 1);
                 
-                // Ensure we don't pick the same point or go beyond the circle
-                // We must pick a point strictly further than the last one we picked.
-                // Binary search finds first index >= target.
-                // We also limit to i + n to ensure we stay within one full circle rotation
                 if (nextIdx < i + n) {
                     lastPos = extendedPos[nextIdx];
                     currentIdx = nextIdx;
@@ -68,9 +62,7 @@ class Solution {
                 }
             }
             
-            // Validate if we picked k points and if the last point connects back to the start
             if (count == k) {
-                // Circular distance: (start + perimeter) - last_point >= dist
                 if (extendedPos[i] + perimeter - lastPos >= dist) {
                     return true;
                 }
