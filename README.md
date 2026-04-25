@@ -59,6 +59,7 @@
 | [3379-transformed-array](https://github.com/elriya/Coding-solutions/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/elriya/Coding-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/elriya/Coding-solutions/tree/master/3453-separate-squares-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/elriya/Coding-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/elriya/Coding-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/elriya/Coding-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/elriya/Coding-solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -103,6 +104,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/elriya/Coding-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/elriya/Coding-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/elriya/Coding-solutions/tree/master/3453-separate-squares-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/elriya/Coding-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/elriya/Coding-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/elriya/Coding-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/elriya/Coding-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -123,6 +125,7 @@
 | [2751-robot-collisions](https://github.com/elriya/Coding-solutions/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/elriya/Coding-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/elriya/Coding-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/elriya/Coding-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/elriya/Coding-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/elriya/Coding-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/elriya/Coding-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -153,6 +156,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/elriya/Coding-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/elriya/Coding-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/elriya/Coding-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/elriya/Coding-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/elriya/Coding-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/elriya/Coding-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/elriya/Coding-solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -343,6 +347,7 @@
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/elriya/Coding-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/elriya/Coding-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/elriya/Coding-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Two Pointers
 |  |
 | ------- |
