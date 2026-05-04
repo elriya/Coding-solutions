@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/elriya/Coding-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/elriya/Coding-solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/elriya/Coding-solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/elriya/Coding-solutions/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/elriya/Coding-solutions/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/elriya/Coding-solutions/tree/master/0118-pascals-triangle) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/elriya/Coding-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/elriya/Coding-solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/elriya/Coding-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/elriya/Coding-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/elriya/Coding-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/elriya/Coding-solutions/tree/master/0069-sqrtx) |
@@ -189,6 +191,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/elriya/Coding-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/elriya/Coding-solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/elriya/Coding-solutions/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/elriya/Coding-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/elriya/Coding-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
