@@ -379,6 +379,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/elriya/Coding-solutions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/elriya/Coding-solutions/tree/master/0061-rotate-list) |
 | [0349-intersection-of-two-arrays](https://github.com/elriya/Coding-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/elriya/Coding-solutions/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/elriya/Coding-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -403,6 +404,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/elriya/Coding-solutions/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/elriya/Coding-solutions/tree/master/0061-rotate-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/elriya/Coding-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
