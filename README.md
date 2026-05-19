@@ -58,6 +58,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/elriya/Coding-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/elriya/Coding-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/elriya/Coding-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/elriya/Coding-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/elriya/Coding-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/elriya/Coding-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/elriya/Coding-solutions/tree/master/2615-sum-of-distances) |
@@ -103,6 +104,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/elriya/Coding-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/elriya/Coding-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/elriya/Coding-solutions/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/elriya/Coding-solutions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/elriya/Coding-solutions/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/elriya/Coding-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/elriya/Coding-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -125,6 +127,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/elriya/Coding-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/elriya/Coding-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/elriya/Coding-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/elriya/Coding-solutions/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/elriya/Coding-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/elriya/Coding-solutions/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/elriya/Coding-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -410,6 +413,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/elriya/Coding-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/elriya/Coding-solutions/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/elriya/Coding-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2540-minimum-common-value](https://github.com/elriya/Coding-solutions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/elriya/Coding-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
 |  |
