@@ -56,6 +56,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/elriya/Coding-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/elriya/Coding-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/elriya/Coding-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2126-destroying-asteroids](https://github.com/elriya/Coding-solutions/tree/master/2126-destroying-asteroids) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/elriya/Coding-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/elriya/Coding-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/elriya/Coding-solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -155,6 +156,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/elriya/Coding-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/elriya/Coding-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/elriya/Coding-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2126-destroying-asteroids](https://github.com/elriya/Coding-solutions/tree/master/2126-destroying-asteroids) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/elriya/Coding-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2463-minimum-total-distance-traveled](https://github.com/elriya/Coding-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/elriya/Coding-solutions/tree/master/2751-robot-collisions) |
@@ -211,6 +213,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/elriya/Coding-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/elriya/Coding-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/elriya/Coding-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/elriya/Coding-solutions/tree/master/2126-destroying-asteroids) |
 | [2573-find-the-string-with-lcp](https://github.com/elriya/Coding-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/elriya/Coding-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/elriya/Coding-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
