@@ -90,6 +90,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/elriya/Coding-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/elriya/Coding-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/elriya/Coding-solutions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/elriya/Coding-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/elriya/Coding-solutions/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/elriya/Coding-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/elriya/Coding-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -144,6 +145,7 @@
 | [3488-closest-equal-element-queries](https://github.com/elriya/Coding-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/elriya/Coding-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/elriya/Coding-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/elriya/Coding-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/elriya/Coding-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
@@ -171,6 +173,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/elriya/Coding-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/elriya/Coding-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/elriya/Coding-solutions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/elriya/Coding-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/elriya/Coding-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
@@ -225,6 +228,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/elriya/Coding-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/elriya/Coding-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/elriya/Coding-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/elriya/Coding-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -435,6 +439,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/elriya/Coding-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2540-minimum-common-value](https://github.com/elriya/Coding-solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/elriya/Coding-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/elriya/Coding-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/elriya/Coding-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
 |  |
