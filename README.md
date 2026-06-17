@@ -293,6 +293,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/elriya/Coding-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/elriya/Coding-solutions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/elriya/Coding-solutions/tree/master/0796-rotate-string) |
+| [1108-defanging-an-ip-address](https://github.com/elriya/Coding-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/elriya/Coding-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/elriya/Coding-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/elriya/Coding-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
