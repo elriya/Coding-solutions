@@ -106,6 +106,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/elriya/Coding-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/elriya/Coding-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/elriya/Coding-solutions/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/elriya/Coding-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -529,6 +530,7 @@
 | [3614-process-string-with-special-operations-ii](https://github.com/elriya/Coding-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/elriya/Coding-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/elriya/Coding-solutions/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/elriya/Coding-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Doubly-Linked List
 |  |
 | ------- |
