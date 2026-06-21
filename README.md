@@ -43,6 +43,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/elriya/Coding-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/elriya/Coding-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/elriya/Coding-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/elriya/Coding-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/elriya/Coding-solutions/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/elriya/Coding-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/elriya/Coding-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -167,6 +168,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/elriya/Coding-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/elriya/Coding-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/elriya/Coding-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/elriya/Coding-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/elriya/Coding-solutions/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/elriya/Coding-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/elriya/Coding-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -236,6 +238,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/elriya/Coding-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/elriya/Coding-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/elriya/Coding-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/elriya/Coding-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/elriya/Coding-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/elriya/Coding-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/elriya/Coding-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -623,4 +626,8 @@
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/elriya/Coding-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3093-longest-common-suffix-queries](https://github.com/elriya/Coding-solutions/tree/master/3093-longest-common-suffix-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/elriya/Coding-solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
