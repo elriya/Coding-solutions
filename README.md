@@ -80,6 +80,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/elriya/Coding-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/elriya/Coding-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/elriya/Coding-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/elriya/Coding-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/elriya/Coding-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/elriya/Coding-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/elriya/Coding-solutions/tree/master/3093-longest-common-suffix-queries) |
@@ -132,6 +133,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/elriya/Coding-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/elriya/Coding-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/elriya/Coding-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/elriya/Coding-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/elriya/Coding-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/elriya/Coding-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/elriya/Coding-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -593,6 +595,7 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/elriya/Coding-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/elriya/Coding-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/elriya/Coding-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/elriya/Coding-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/elriya/Coding-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
