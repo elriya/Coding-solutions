@@ -392,6 +392,7 @@
 | [0100-same-tree](https://github.com/elriya/Coding-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/elriya/Coding-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/elriya/Coding-solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/elriya/Coding-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/elriya/Coding-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/elriya/Coding-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/elriya/Coding-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -404,6 +405,7 @@
 | [0100-same-tree](https://github.com/elriya/Coding-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/elriya/Coding-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/elriya/Coding-solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/elriya/Coding-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/elriya/Coding-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/elriya/Coding-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/elriya/Coding-solutions/tree/master/1306-jump-game-iii) |
@@ -438,6 +440,7 @@
 | [0100-same-tree](https://github.com/elriya/Coding-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/elriya/Coding-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/elriya/Coding-solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/elriya/Coding-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/elriya/Coding-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/elriya/Coding-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/elriya/Coding-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -485,6 +488,7 @@
 | [0042-trapping-rain-water](https://github.com/elriya/Coding-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/elriya/Coding-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/elriya/Coding-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0636-exclusive-time-of-functions](https://github.com/elriya/Coding-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/elriya/Coding-solutions/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/elriya/Coding-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -580,6 +584,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/elriya/Coding-solutions/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/elriya/Coding-solutions/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/elriya/Coding-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/elriya/Coding-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/elriya/Coding-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/elriya/Coding-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
