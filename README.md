@@ -22,6 +22,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/elriya/Coding-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/elriya/Coding-solutions/tree/master/0396-rotate-function) |
 | [0605-can-place-flowers](https://github.com/elriya/Coding-solutions/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/elriya/Coding-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/elriya/Coding-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/elriya/Coding-solutions/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/elriya/Coding-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/elriya/Coding-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/elriya/Coding-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/elriya/Coding-solutions/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/elriya/Coding-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/elriya/Coding-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -248,6 +250,7 @@
 | [0089-gray-code](https://github.com/elriya/Coding-solutions/tree/master/0089-gray-code) |
 | [0279-perfect-squares](https://github.com/elriya/Coding-solutions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/elriya/Coding-solutions/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/elriya/Coding-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/elriya/Coding-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/elriya/Coding-solutions/tree/master/0788-rotated-digits) |
 | [1266-minimum-time-visiting-all-points](https://github.com/elriya/Coding-solutions/tree/master/1266-minimum-time-visiting-all-points) |
