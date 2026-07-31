@@ -152,6 +152,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/elriya/Coding-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/elriya/Coding-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/elriya/Coding-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/elriya/Coding-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/elriya/Coding-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/elriya/Coding-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/elriya/Coding-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -221,6 +222,7 @@
 | [2784-check-if-array-is-good](https://github.com/elriya/Coding-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/elriya/Coding-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/elriya/Coding-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/elriya/Coding-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/elriya/Coding-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/elriya/Coding-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/elriya/Coding-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -303,6 +305,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/elriya/Coding-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/elriya/Coding-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/elriya/Coding-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/elriya/Coding-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/elriya/Coding-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/elriya/Coding-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/elriya/Coding-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -390,6 +393,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/elriya/Coding-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/elriya/Coding-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/elriya/Coding-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/elriya/Coding-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/elriya/Coding-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/elriya/Coding-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/elriya/Coding-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -686,6 +690,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/elriya/Coding-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/elriya/Coding-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2833-furthest-point-from-origin](https://github.com/elriya/Coding-solutions/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/elriya/Coding-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/elriya/Coding-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/elriya/Coding-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/elriya/Coding-solutions/tree/master/3713-longest-balanced-substring-i) |
