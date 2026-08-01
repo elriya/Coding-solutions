@@ -21,6 +21,7 @@
 | [0198-house-robber](https://github.com/elriya/Coding-solutions/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/elriya/Coding-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/elriya/Coding-solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/elriya/Coding-solutions/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/elriya/Coding-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/elriya/Coding-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/elriya/Coding-solutions/tree/master/0636-exclusive-time-of-functions) |
@@ -256,6 +257,7 @@
 | [0089-gray-code](https://github.com/elriya/Coding-solutions/tree/master/0089-gray-code) |
 | [0279-perfect-squares](https://github.com/elriya/Coding-solutions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/elriya/Coding-solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/elriya/Coding-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/elriya/Coding-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/elriya/Coding-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/elriya/Coding-solutions/tree/master/0788-rotated-digits) |
@@ -355,6 +357,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/elriya/Coding-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/elriya/Coding-solutions/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/elriya/Coding-solutions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/elriya/Coding-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## String
 |  |
@@ -478,6 +481,7 @@
 | [0198-house-robber](https://github.com/elriya/Coding-solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/elriya/Coding-solutions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/elriya/Coding-solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/elriya/Coding-solutions/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/elriya/Coding-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/elriya/Coding-solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/elriya/Coding-solutions/tree/master/0799-champagne-tower) |
@@ -785,4 +789,8 @@
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/elriya/Coding-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/elriya/Coding-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/elriya/Coding-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
