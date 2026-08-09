@@ -28,6 +28,7 @@
 | [0682-baseball-game](https://github.com/elriya/Coding-solutions/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/elriya/Coding-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/elriya/Coding-solutions/tree/master/0874-walking-robot-simulation) |
+| [1140-stone-game-ii](https://github.com/elriya/Coding-solutions/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/elriya/Coding-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/elriya/Coding-solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/elriya/Coding-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -265,6 +266,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/elriya/Coding-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/elriya/Coding-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/elriya/Coding-solutions/tree/master/0788-rotated-digits) |
+| [1140-stone-game-ii](https://github.com/elriya/Coding-solutions/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/elriya/Coding-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/elriya/Coding-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/elriya/Coding-solutions/tree/master/1406-stone-game-iii) |
@@ -498,6 +500,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/elriya/Coding-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/elriya/Coding-solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/elriya/Coding-solutions/tree/master/0799-champagne-tower) |
+| [1140-stone-game-ii](https://github.com/elriya/Coding-solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/elriya/Coding-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/elriya/Coding-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1406-stone-game-iii](https://github.com/elriya/Coding-solutions/tree/master/1406-stone-game-iii) |
@@ -603,6 +606,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/elriya/Coding-solutions/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/elriya/Coding-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/elriya/Coding-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/elriya/Coding-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -813,13 +817,16 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/elriya/Coding-solutions/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/elriya/Coding-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/elriya/Coding-solutions/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/elriya/Coding-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/elriya/Coding-solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/elriya/Coding-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/elriya/Coding-solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
