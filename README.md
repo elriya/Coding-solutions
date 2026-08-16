@@ -67,6 +67,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/elriya/Coding-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/elriya/Coding-solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/elriya/Coding-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2029-stone-game-ix](https://github.com/elriya/Coding-solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/elriya/Coding-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/elriya/Coding-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/elriya/Coding-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -283,6 +284,7 @@
 | [1840-maximum-building-height](https://github.com/elriya/Coding-solutions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/elriya/Coding-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/elriya/Coding-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/elriya/Coding-solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/elriya/Coding-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/elriya/Coding-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/elriya/Coding-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -319,6 +321,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/elriya/Coding-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/elriya/Coding-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/elriya/Coding-solutions/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/elriya/Coding-solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/elriya/Coding-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/elriya/Coding-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/elriya/Coding-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -728,6 +731,7 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/elriya/Coding-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/elriya/Coding-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2029-stone-game-ix](https://github.com/elriya/Coding-solutions/tree/master/2029-stone-game-ix) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/elriya/Coding-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2833-furthest-point-from-origin](https://github.com/elriya/Coding-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/elriya/Coding-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -834,14 +838,21 @@
 | [0486-predict-the-winner](https://github.com/elriya/Coding-solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/elriya/Coding-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/elriya/Coding-solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/elriya/Coding-solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/elriya/Coding-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/elriya/Coding-solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/elriya/Coding-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/elriya/Coding-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/elriya/Coding-solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/elriya/Coding-solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/elriya/Coding-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
