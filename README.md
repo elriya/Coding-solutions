@@ -112,6 +112,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/elriya/Coding-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/elriya/Coding-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/elriya/Coding-solutions/tree/master/3379-transformed-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/elriya/Coding-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/elriya/Coding-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/elriya/Coding-solutions/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/elriya/Coding-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -214,6 +215,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/elriya/Coding-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/elriya/Coding-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/elriya/Coding-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/elriya/Coding-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3453-separate-squares-i](https://github.com/elriya/Coding-solutions/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/elriya/Coding-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/elriya/Coding-solutions/tree/master/3488-closest-equal-element-queries) |
@@ -255,6 +257,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/elriya/Coding-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/elriya/Coding-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/elriya/Coding-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/elriya/Coding-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/elriya/Coding-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/elriya/Coding-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/elriya/Coding-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -566,6 +569,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/elriya/Coding-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/elriya/Coding-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/elriya/Coding-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/elriya/Coding-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/elriya/Coding-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/elriya/Coding-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/elriya/Coding-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
