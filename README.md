@@ -27,6 +27,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/elriya/Coding-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/elriya/Coding-solutions/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/elriya/Coding-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0835-image-overlap](https://github.com/elriya/Coding-solutions/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/elriya/Coding-solutions/tree/master/0874-walking-robot-simulation) |
 | [1140-stone-game-ii](https://github.com/elriya/Coding-solutions/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/elriya/Coding-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -374,6 +375,7 @@
 | [0037-sudoku-solver](https://github.com/elriya/Coding-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/elriya/Coding-solutions/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/elriya/Coding-solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/elriya/Coding-solutions/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/elriya/Coding-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/elriya/Coding-solutions/tree/master/1301-number-of-paths-with-max-score) |
