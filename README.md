@@ -440,6 +440,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/elriya/Coding-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/elriya/Coding-solutions/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/elriya/Coding-solutions/tree/master/0097-interleaving-string) |
@@ -572,6 +573,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/elriya/Coding-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/elriya/Coding-solutions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -645,6 +647,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/elriya/Coding-solutions/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/elriya/Coding-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/elriya/Coding-solutions/tree/master/0089-gray-code) |
@@ -968,6 +971,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/elriya/Coding-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/elriya/Coding-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/elriya/Coding-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
