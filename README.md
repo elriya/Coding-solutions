@@ -441,6 +441,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/elriya/Coding-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/elriya/Coding-solutions/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/elriya/Coding-solutions/tree/master/0097-interleaving-string) |
@@ -574,6 +575,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/elriya/Coding-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/elriya/Coding-solutions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -624,6 +626,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/elriya/Coding-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/elriya/Coding-solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/elriya/Coding-solutions/tree/master/0094-binary-tree-inorder-traversal) |
@@ -972,6 +975,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/elriya/Coding-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/elriya/Coding-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/elriya/Coding-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
