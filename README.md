@@ -359,6 +359,7 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/elriya/Coding-solutions/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/elriya/Coding-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/elriya/Coding-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/elriya/Coding-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/elriya/Coding-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -448,6 +449,7 @@
 | [0115-distinct-subsequences](https://github.com/elriya/Coding-solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/elriya/Coding-solutions/tree/master/0131-palindrome-partitioning) |
 | [0657-robot-return-to-origin](https://github.com/elriya/Coding-solutions/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/elriya/Coding-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/elriya/Coding-solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/elriya/Coding-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/elriya/Coding-solutions/tree/master/0761-special-binary-string) |
@@ -588,6 +590,7 @@
 | [0279-perfect-squares](https://github.com/elriya/Coding-solutions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/elriya/Coding-solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/elriya/Coding-solutions/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/elriya/Coding-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/elriya/Coding-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/elriya/Coding-solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/elriya/Coding-solutions/tree/master/0799-champagne-tower) |
@@ -632,6 +635,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/elriya/Coding-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/elriya/Coding-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0636-exclusive-time-of-functions](https://github.com/elriya/Coding-solutions/tree/master/0636-exclusive-time-of-functions) |
+| [0678-valid-parenthesis-string](https://github.com/elriya/Coding-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/elriya/Coding-solutions/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/elriya/Coding-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/elriya/Coding-solutions/tree/master/1096-brace-expansion-ii) |
@@ -976,6 +980,7 @@
 | [0020-valid-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/elriya/Coding-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/elriya/Coding-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/elriya/Coding-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/elriya/Coding-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/elriya/Coding-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
