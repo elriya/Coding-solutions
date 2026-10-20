@@ -163,6 +163,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/elriya/Coding-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/elriya/Coding-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/elriya/Coding-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/elriya/Coding-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/elriya/Coding-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/elriya/Coding-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/elriya/Coding-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -297,6 +298,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/elriya/Coding-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/elriya/Coding-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/elriya/Coding-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/elriya/Coding-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -372,6 +374,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/elriya/Coding-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/elriya/Coding-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/elriya/Coding-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/elriya/Coding-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -903,6 +906,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/elriya/Coding-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/elriya/Coding-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/elriya/Coding-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3886-sum-of-sortable-integers](https://github.com/elriya/Coding-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Segment Tree
 |  |
 | ------- |
