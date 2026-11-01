@@ -21,6 +21,7 @@
 | [0198-house-robber](https://github.com/elriya/Coding-solutions/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/elriya/Coding-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/elriya/Coding-solutions/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/elriya/Coding-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/elriya/Coding-solutions/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/elriya/Coding-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/elriya/Coding-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -331,6 +332,7 @@
 | [0089-gray-code](https://github.com/elriya/Coding-solutions/tree/master/0089-gray-code) |
 | [0279-perfect-squares](https://github.com/elriya/Coding-solutions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/elriya/Coding-solutions/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/elriya/Coding-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/elriya/Coding-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/elriya/Coding-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/elriya/Coding-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
