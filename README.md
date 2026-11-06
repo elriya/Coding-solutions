@@ -97,6 +97,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/elriya/Coding-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/elriya/Coding-solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/elriya/Coding-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/elriya/Coding-solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/elriya/Coding-solutions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/elriya/Coding-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/elriya/Coding-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -203,6 +204,7 @@
 | [2540-minimum-common-value](https://github.com/elriya/Coding-solutions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/elriya/Coding-solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/elriya/Coding-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/elriya/Coding-solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/elriya/Coding-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/elriya/Coding-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/elriya/Coding-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -290,6 +292,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/elriya/Coding-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/elriya/Coding-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/elriya/Coding-solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2747-count-zero-request-servers](https://github.com/elriya/Coding-solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/elriya/Coding-solutions/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/elriya/Coding-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/elriya/Coding-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -895,6 +898,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/elriya/Coding-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/elriya/Coding-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/elriya/Coding-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2747-count-zero-request-servers](https://github.com/elriya/Coding-solutions/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/elriya/Coding-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/elriya/Coding-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/elriya/Coding-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
