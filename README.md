@@ -395,6 +395,7 @@
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/elriya/Coding-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/elriya/Coding-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/elriya/Coding-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/elriya/Coding-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/elriya/Coding-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/elriya/Coding-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/elriya/Coding-solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -442,6 +443,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/elriya/Coding-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/elriya/Coding-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/elriya/Coding-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/elriya/Coding-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
 |  |
 | ------- |
